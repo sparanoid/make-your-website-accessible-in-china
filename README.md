@@ -1,17 +1,22 @@
-# How to Make Your Website Accessible in China?
+# Make Your Website Accessible in China
 
-That's the question.
+How to make your website accessible in China? That's the question.
 
 This repo is work-in-progress
 
 ---
 
-## Blocked Services
+## Blocked Dev Services
 
 - CloudFlare
 - Google Hosted Libraries
 - Google Fonts
 - Gravatar
+
+## Blocked Widgets
+
+- Facebook Widgets
+- Twitter Widgets
 
 ## Author
 
