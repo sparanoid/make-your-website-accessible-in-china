@@ -18,6 +18,10 @@ This repo is work-in-progress
 - Facebook Widgets
 - Twitter Widgets
 
+## Slow Connections
+
+- Amazon Web Service (All regions)
+
 ## Author
 
 **Tunghsiao Liu**
