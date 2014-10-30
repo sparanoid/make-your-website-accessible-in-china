@@ -10,12 +10,18 @@ This repo only works when your own domain or ip ani't Blocked in China and mostl
 
 ---
 
-## Blocked Dev Services
+## Blocked CDNs
 
 - CloudFlare
 - Google Hosted Libraries
 - Google Fonts
 - Gravatar
+
+## Consider adding an seconary or substitude with Unblocked CDN services
+
+
+## Or put these files on your own server
+
 
 ## Blocked Widgets
 
