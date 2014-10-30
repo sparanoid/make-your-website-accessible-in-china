@@ -4,7 +4,7 @@ How to make your website accessible in China? That's the question.
 
 This repo is work-in-progress
 
-## Notice
+## Guide
 
 This repo only works when your own domain or ip ani't Blocked in China and mostly help you to make your site accessible when you are using an CDN likely blocked. 
 
@@ -32,3 +32,6 @@ This repo only works when your own domain or ip ani't Blocked in China and mostl
 
 - Twitter: @[tunghsiao](http://twitter.com/tunghsiao)
 - GitHub: @[sparanoid](http://github.com/sparanoid)
+
+**Willian Zhang**
+- twitter: @[Willian_Zhang](https://twitter.com/willian_zhang)
