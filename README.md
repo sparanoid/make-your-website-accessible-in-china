@@ -12,6 +12,9 @@ This repo is work-in-progress
 - Google Hosted Libraries
 - Google Fonts
 - Gravatar
+- Google Analytics
+  - Alternative:
+  - Google Analytics Proxy
 
 ## Blocked Widgets
 
