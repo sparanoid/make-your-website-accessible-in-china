@@ -11,7 +11,6 @@ This repo is work-in-progress
 - CloudFlare
 - Google Hosted Libraries
 - Google Fonts
-- Gravatar
 - Google Analytics
   - Alternative:
   - Google Analytics Proxy
@@ -24,6 +23,9 @@ This repo is work-in-progress
 ## Slow Connections
 
 - Amazon Web Service (All regions)
+- All other services using AWS
+- Gravatar
+  - [Gravatar Proxy](http://www.v2ex.com/t/146822) by V2EX
 
 ## Author
 
